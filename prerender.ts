@@ -2,7 +2,7 @@ import fs from "node:fs";
 import { parse } from "csv-parse";
 
 async function fetchCSV() {
-  const dbID = "12xrdWnC6YPo3bXyjJ0UPtGrDUu8Ms8oXb_Qd_S1XAX8";
+  const dbID = "1-r-51OqJJnJ6G0g5Mn6-FpAUUe-B6wZhqtfDOWOY5RE";
   const sheet = process.env.NODE_ENV === "production" ? "responses" : "debug";
   console.log("[SSG] fetching from " + sheet);
 
