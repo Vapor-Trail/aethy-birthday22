@@ -1,9 +1,9 @@
 export const messages = [
-  "Hey Nida!",
+  "Hi Aethy!",
   "Im sorry to remind you,",
   "but today is your birthday! :O",
   "To celebrate,",
-  "we decided to make a game for you.",
+  "we decided to make a horror game for you.",
   "jk",
   "But look at this!",
 ];
